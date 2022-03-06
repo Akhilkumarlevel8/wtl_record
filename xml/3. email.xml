@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>  
+<emails>  
+<email>  
+  <to>Akhil</to>  
+  <from>Midhun</from>  
+  <heading>Hello</heading>  
+  <body>Hello brother, how are you!</body>  
+</email>  
+<email>  
+  <to>Sweeto</to>  
+  <from>Vinesh</from>  
+  <heading>Birth day wish</heading>  
+  <body>Happy birth day Tom!</body>  
+</email>  
+<email>  
+  <to>Amal</to>  
+  <from>Abhishek</from>  
+  <heading>Morning walk</heading>  
+  <body>Please start morning walk to stay fit!</body>  
+</email>  
+<email>  
+  <to>Athul</to>  
+  <from>Akhil</from>  
+  <heading>Health Tips</heading>  
+  <body>Smoking is injurious to health!</body>  
+</email>  
+</emails>

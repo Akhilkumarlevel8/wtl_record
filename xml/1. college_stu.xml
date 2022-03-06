@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="student.xsl"?><VTU>
+<STUDENT>
+<USN>1GD123SWE2021</USN>
+<NAME>Akhil Kumar km</NAME>
+<COLLEGE>Rajagiri College Of Social Sciences</COLLEGE>
+<BRANCH>MASTER OF COMPUTER APPLICATION</BRANCH>
+<YEAR>2021</YEAR>
+<EMAILID>akhil49km@gmail.com</EMAILID>
+</STUDENT>
+<STUDENT>
+<USN>1GD10ME2021</USN>
+<NAME>Abhinav Thomas</NAME>
+<COLLEGE>Rajagiri College Of Social Sciences</COLLEGE>
+<BRANCH>MASTER OF SCIENCE </BRANCH>
+<YEAR>2021</YEAR>
+<EMAILID>abhinavth@gmail.com.com</EMAILID>
+</STUDENT>
+<STUDENT>
+<USN>1GD12ed2021</USN>
+<NAME>Midhun Babu </NAME>
+<COLLEGE>Rajagiri College Of Social Sciences</COLLEGE>
+<BRANCH> MASTER OF COMPUTER APPLICATION </BRANCH>
+<YEAR>2021</YEAR>
+<EMAILID>midhunbabu1999@gmail.com</EMAILID>
+</STUDENT>
+</VTU>
